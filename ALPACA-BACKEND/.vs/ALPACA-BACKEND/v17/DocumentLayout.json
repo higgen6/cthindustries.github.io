@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|solutionrelative:ALPACA-BACKEND\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|solutionrelative:ALPACA-BACKEND\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\routes\\alpaca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|solutionrelative:ALPACA-BACKEND\\routes\\alpaca.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D0CBF67-92FE-407D-B713-06DE20990C14}|ALPACA-BACKEND\\ALPACA-BACKEND.njsproj|solutionrelative:ALPACA-BACKEND\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "alpaca.js",
+              "DocumentMoniker": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\routes\\alpaca.js",
+              "RelativeDocumentMoniker": "ALPACA-BACKEND\\routes\\alpaca.js",
+              "ToolTip": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\routes\\alpaca.js",
+              "RelativeToolTip": "ALPACA-BACKEND\\routes\\alpaca.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-02T01:14:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\package.json",
+              "RelativeDocumentMoniker": "ALPACA-BACKEND\\package.json",
+              "ToolTip": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\package.json",
+              "RelativeToolTip": "ALPACA-BACKEND\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T00:35:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\.env",
+              "RelativeDocumentMoniker": "ALPACA-BACKEND\\.env",
+              "ToolTip": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\.env",
+              "RelativeToolTip": "ALPACA-BACKEND\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-02T00:30:23.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\app.js",
+              "RelativeDocumentMoniker": "ALPACA-BACKEND\\app.js",
+              "ToolTip": "C:\\Users\\chadr\\Desktop\\alpaca-project\\ALPACA-BACKEND\\ALPACA-BACKEND\\app.js",
+              "RelativeToolTip": "ALPACA-BACKEND\\app.js",
+              "ViewState": "AgIAAAQAAAAAMzMzM7MRwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-02T00:27:15.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
